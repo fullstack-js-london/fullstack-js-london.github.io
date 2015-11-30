@@ -1,0 +1,10 @@
+{
+  "appId": "jshackers",
+  "apiKey": "f6f77274197334113f130fcf5c03f73ed035ca9a499b799d7971569966fb3563",
+  "public": "./",
+  "ignore": [
+    "stamplay.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
